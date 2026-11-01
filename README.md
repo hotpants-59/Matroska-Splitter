@@ -210,4 +210,4 @@ Matroska Splitter is offered as a full free version with all features and update
 Experience hassle-free MKV playback with Matroska Splitter. **Download now and enjoy!**
 
 ---
-**Last updated:** 2026-10-31 22:09:30 UTC
+**Last updated:** 2026-11-01 01:42:41 UTC
